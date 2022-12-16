@@ -1,0 +1,15 @@
+/home/camilogs/Desktop/Open-Bootcamp/C#/Ejercicio1/obj/Debug/net6.0/Ejercicio.csproj.AssemblyReference.cache
+/home/camilogs/Desktop/Open-Bootcamp/C#/Ejercicio1/obj/Debug/net6.0/Ejercicio.GeneratedMSBuildEditorConfig.editorconfig
+/home/camilogs/Desktop/Open-Bootcamp/C#/Ejercicio1/obj/Debug/net6.0/Ejercicio.AssemblyInfoInputs.cache
+/home/camilogs/Desktop/Open-Bootcamp/C#/Ejercicio1/obj/Debug/net6.0/Ejercicio.AssemblyInfo.cs
+/home/camilogs/Desktop/Open-Bootcamp/C#/Ejercicio1/obj/Debug/net6.0/Ejercicio.csproj.CoreCompileInputs.cache
+/home/camilogs/Desktop/Open-Bootcamp/C#/Ejercicio1/bin/Debug/net6.0/Ejercicio
+/home/camilogs/Desktop/Open-Bootcamp/C#/Ejercicio1/bin/Debug/net6.0/Ejercicio.deps.json
+/home/camilogs/Desktop/Open-Bootcamp/C#/Ejercicio1/bin/Debug/net6.0/Ejercicio.runtimeconfig.json
+/home/camilogs/Desktop/Open-Bootcamp/C#/Ejercicio1/bin/Debug/net6.0/Ejercicio.dll
+/home/camilogs/Desktop/Open-Bootcamp/C#/Ejercicio1/bin/Debug/net6.0/Ejercicio.pdb
+/home/camilogs/Desktop/Open-Bootcamp/C#/Ejercicio1/obj/Debug/net6.0/Ejercicio.dll
+/home/camilogs/Desktop/Open-Bootcamp/C#/Ejercicio1/obj/Debug/net6.0/refint/Ejercicio.dll
+/home/camilogs/Desktop/Open-Bootcamp/C#/Ejercicio1/obj/Debug/net6.0/Ejercicio.pdb
+/home/camilogs/Desktop/Open-Bootcamp/C#/Ejercicio1/obj/Debug/net6.0/Ejercicio.genruntimeconfig.cache
+/home/camilogs/Desktop/Open-Bootcamp/C#/Ejercicio1/obj/Debug/net6.0/ref/Ejercicio.dll
