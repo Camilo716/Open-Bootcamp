@@ -1,0 +1,15 @@
+/home/camilogs/Desktop/Open-Bootcamp/C#/Ejercicios_Sesion2/obj/Debug/net6.0/Ejercicios_Sesion2.csproj.AssemblyReference.cache
+/home/camilogs/Desktop/Open-Bootcamp/C#/Ejercicios_Sesion2/obj/Debug/net6.0/Ejercicios_Sesion2.GeneratedMSBuildEditorConfig.editorconfig
+/home/camilogs/Desktop/Open-Bootcamp/C#/Ejercicios_Sesion2/obj/Debug/net6.0/Ejercicios_Sesion2.AssemblyInfoInputs.cache
+/home/camilogs/Desktop/Open-Bootcamp/C#/Ejercicios_Sesion2/obj/Debug/net6.0/Ejercicios_Sesion2.AssemblyInfo.cs
+/home/camilogs/Desktop/Open-Bootcamp/C#/Ejercicios_Sesion2/obj/Debug/net6.0/Ejercicios_Sesion2.csproj.CoreCompileInputs.cache
+/home/camilogs/Desktop/Open-Bootcamp/C#/Ejercicios_Sesion2/bin/Debug/net6.0/Ejercicios_Sesion2
+/home/camilogs/Desktop/Open-Bootcamp/C#/Ejercicios_Sesion2/bin/Debug/net6.0/Ejercicios_Sesion2.deps.json
+/home/camilogs/Desktop/Open-Bootcamp/C#/Ejercicios_Sesion2/bin/Debug/net6.0/Ejercicios_Sesion2.runtimeconfig.json
+/home/camilogs/Desktop/Open-Bootcamp/C#/Ejercicios_Sesion2/bin/Debug/net6.0/Ejercicios_Sesion2.dll
+/home/camilogs/Desktop/Open-Bootcamp/C#/Ejercicios_Sesion2/bin/Debug/net6.0/Ejercicios_Sesion2.pdb
+/home/camilogs/Desktop/Open-Bootcamp/C#/Ejercicios_Sesion2/obj/Debug/net6.0/Ejercicios_Sesion2.dll
+/home/camilogs/Desktop/Open-Bootcamp/C#/Ejercicios_Sesion2/obj/Debug/net6.0/refint/Ejercicios_Sesion2.dll
+/home/camilogs/Desktop/Open-Bootcamp/C#/Ejercicios_Sesion2/obj/Debug/net6.0/Ejercicios_Sesion2.pdb
+/home/camilogs/Desktop/Open-Bootcamp/C#/Ejercicios_Sesion2/obj/Debug/net6.0/Ejercicios_Sesion2.genruntimeconfig.cache
+/home/camilogs/Desktop/Open-Bootcamp/C#/Ejercicios_Sesion2/obj/Debug/net6.0/ref/Ejercicios_Sesion2.dll
