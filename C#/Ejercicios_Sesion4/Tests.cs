@@ -1,7 +1,5 @@
 namespace Ejercicios_Sesion4;
 
-namespace Ejercicios_Sesion4;
-
 public class Tests
 {
     [SetUp]
@@ -18,7 +16,7 @@ public class Tests
 
             string tableExpected = "2x1 = 2\n2x2 = 4\n2x3 = 6\n2x4 = 8\n2x5 = 10\n2x6 = 12\n2x7 = 14\n2x8 = 16\n2x9 = 18\n2x10 = 20\n";
 
-            OperationTables_Ejercicio1.multiplication(2);
+            operationTableNumber2.multiplication(2);
 
             Assert.AreEqual(tableExpected, ConsoleOutput.GetOuput());
         }   
@@ -30,7 +28,7 @@ public class Tests
         using (var ConsoleOutput = new ConsoleOutput())
         {
             Counter_Ejercicio2 positiveCounter = new Counter_Ejercicio2(4);
-            string positiveTextExpected = "4...3...2...1...\n";
+            string positiveTextExpected = "4...3...2...1...";
 
             positiveCounter.presentCounter();
 
@@ -44,7 +42,7 @@ public class Tests
         using (var ConsoleOutput = new ConsoleOutput())
         {
             Counter_Ejercicio2 negativeCounter = new Counter_Ejercicio2(-5);
-            string negativeTextExpected = "-5...-4...-3...-2...-1...\n";
+            string negativeTextExpected = "-5...-4...-3...-2...-1...";
             
             negativeCounter.presentCounter();
             
@@ -52,7 +50,7 @@ public class Tests
         }   
     }
 
-    [Test]
+    [Test]   
     public void validate_creation_of_figure_with_filled()
     {
         using (var ConsoleOutput = new ConsoleOutput())
@@ -90,3 +88,4 @@ public class Tests
         }   
     }
 }
+
