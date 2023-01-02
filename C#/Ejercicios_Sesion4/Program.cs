@@ -1,5 +1,8 @@
 global using NUnit.Framework;
 
+            Figure_Ejercicio3 figure1 = new Figure_Ejercicio3(15,15,false);
+            figure1.createFigureRequired();
+
 public class OperationTables_Ejercicio1
 {
     public void multiplication(int numberToOperate)
@@ -86,14 +89,8 @@ public class Figure_Ejercicio3
         {
             createFigureWithoutFilled();
         }
-
-        writeFigureCreated();
     }
 
-    public void writeFigureCreated()
-    {
-
-    }
 
     public void createFigureWithFilled()
     {
